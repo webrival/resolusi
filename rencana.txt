@@ -1,7 +1,7 @@
 Rencana
 
 -Belajar PHP
- ^Laravel
+  ^Laravel
 -Belajar JQuery
 -Belajar Web Development
 -Python
