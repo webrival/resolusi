@@ -3,6 +3,5 @@ Rencana
 -Belajar PHP
   ^Laravel
 -Belajar JQuery
--Belajar Struktur Data
 -Belajar Web Development
 -Python
