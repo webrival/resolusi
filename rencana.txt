@@ -2,4 +2,5 @@ Rencana
 
 -Belajar PHP
 -Belajar JQuery
+-Belajar Struktur Data
 -Belajar Web Development
