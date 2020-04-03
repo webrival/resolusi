@@ -1,0 +1,4 @@
+Rencana
+
+-Belajar PHP
+-Belajar JQuery
